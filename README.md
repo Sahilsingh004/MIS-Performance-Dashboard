@@ -1,4 +1,4 @@
-**# MIS Performance Dashboard
+# MIS Performance Dashboard
 
 **Author**  
 Sahil Singh
